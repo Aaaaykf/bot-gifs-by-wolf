@@ -104,7 +104,7 @@ client.elevation = message => {
     if (message.author.id === config.sahip) permlvl = 4;
     return permlvl;
 };
-client.login(config.token)
+client.login("ODE1MTUwNDQ0NDY4NzY0NzIy.YDoOAg.mI1NsGnONX3dvVKQDG25vIAUy2g")
 
 
 //------------------------ kakwolf Random Gif Pp -----------------------//
